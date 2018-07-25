@@ -12,7 +12,7 @@ public class Me {
         return name;
     }
 
-    public void greet() {
+    public void greet(String name) {
         System.out.println(name);
     }
 }
