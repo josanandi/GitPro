@@ -1,5 +1,5 @@
 public class Kriszga {
     public void future() {
-        System.out.println("halak");
+        System.out.println("kutya");
     }
 }
