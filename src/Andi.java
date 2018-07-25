@@ -5,6 +5,6 @@ public class Andi {
     }
 
     public static void count(){
-        System.out.println("I am 34 years");
+        System.out.println("I was born in April");
     }
 }
