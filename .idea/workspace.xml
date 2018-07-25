@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cc6a94e-1a02-48c6-9a43-bfd3e6ffda89" name="Default" comment="" />
+    <list default="true" id="8cc6a94e-1a02-48c6-9a43-bfd3e6ffda89" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +39,12 @@
       <file leaf-file-name="Me.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Me.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +91,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Eniko.java" />
+        <option value="$PROJECT_DIR$/src/Me.java" />
       </list>
     </option>
   </component>
@@ -221,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1617000" />
+    <option name="totallyTimeSpent" value="2290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="750" height="735" extended-state="0" />
@@ -402,8 +409,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Me.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
