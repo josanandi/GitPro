@@ -1,5 +1,7 @@
 public class Eniko {
-    public void cheer() {
-        System.out.println("Emerald Unicorn Glitter");
+    private String teamName = "Emerald Unicorn Glitter";
+
+    public void cheer(String name) {
+        System.out.println(name);
     }
 }
