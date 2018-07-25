@@ -3,6 +3,6 @@ public class Eniko {
     private String name = "Java";
 
     public void cheer(String name, String teamName) {
-        System.out.println(name + " " + teamName);
+        System.out.println("Cheer for the " + name);
     }
 }
