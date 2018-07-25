@@ -12,7 +12,7 @@ public class Me {
         return name;
     }
 
-    public void greet() {
-        System.out.println("Greetings!");
+    public void greet(String name, String otherName) {
+        System.out.println(name + " " + otherName);
     }
 }
