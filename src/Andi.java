@@ -5,6 +5,8 @@ public class Andi {
     }
 
     public static void count(){
-        System.out.println("I was born in April");
+        System.out.println("I was born in April");}
+    public static void count(Integer b){
+        System.out.println("I am " + b);
     }
 }
