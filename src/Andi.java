@@ -6,7 +6,7 @@ public class Andi {
 
     public static void count(){
         System.out.println("I was born in April");}
-    public static void count(Integer b, Integer a){
-        System.out.println(a + " " +b);
+    public static void count(Integer b){
+        System.out.println("I am " + b);
     }
 }
