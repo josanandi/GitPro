@@ -9,4 +9,8 @@ public class Andi {
     public static void count(Integer b){
         System.out.println("I am " + b);
     }
+
+    public void EnikoTriesAgain() {
+        System.out.println("csináld meg");
+    }
 }
