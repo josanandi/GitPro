@@ -13,4 +13,8 @@ public class Andi {
     public void EnikoTriesAgain() {
         System.out.println("csináld meg");
     }
+
+    public void againAndAgainAndAgainAndAgain() {
+        System.out.println("no para, majd rájövünk");
+    }
 }
