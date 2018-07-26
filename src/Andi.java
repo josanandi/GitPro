@@ -12,4 +12,8 @@ public class Andi {
     public void EnikoTriesAgain() {
         System.out.println("csináld meg");
     }
+
+    public void andAgain() {
+        System.out.println("harmadik vagy negyedik próbálkozás");
+    }
 }
