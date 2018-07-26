@@ -13,7 +13,12 @@ public class Andi {
         System.out.println("csináld meg");
     }
 
+<<<<<<< HEAD
     public void andAgain() {
         System.out.println("harmadik vagy negyedik próbálkozás");
+=======
+    public void againAndAgainAndAgainAndAgain() {
+        System.out.println("no para, majd rájövünk");
+>>>>>>> Eniko-twoparam
     }
 }
