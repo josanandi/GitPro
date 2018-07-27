@@ -1,7 +1,6 @@
 public class Andi {
-    public static void main(String[] args) {
-        count();
-
+    public void EnikoTrollkodik() {
+        System.out.println("Enikő megpróbál Andira kiosztani egy pull requestet.");
     }
 
     public static void count(){
